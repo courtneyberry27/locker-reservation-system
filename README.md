@@ -1,4 +1,4 @@
-•	Created a full-stack application to manage locker reservations in-offices across the world with a team of second year interns in which we designed and implemented a relational database system, API, and the UX/UI for users. 
-•	Used React, HTML, JavaScript. SQL, Java Spring Boot for tech stack.
-•	Application now made production ready and in use in an office within the UBS ecosystem. 
+The specifics are confidential as per UBS company policy, but in general, I created a full-stack application to manage locker reservations in-offices across the world with a team of second year interns in which we designed and implemented a relational database system, API, and the UX/UI for users. I was the lead developer and primarily oversaw and performed development and planning. Used React, HTML, JavaScript. SQL, Java Spring Boot for tech stack. Application now made production ready and in use in an office within the UBS ecosystem. 
+
+Used Figma to create a rough thumbnail image for this project on my portfolio site. I am not allowed to make it look exactly like the actual app as that is confidential, but I included the basic functionalities in the image such as navigation, new reservations, and managing current reservations. 
 
